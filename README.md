@@ -5,7 +5,7 @@ The dataset was produced by CMCC in the context of the ACCREU project. Further i
 **Produced within:** ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe
 **Version:** 1.0 (2026)
 
-**Public Accelerator folder:** [View ACCREU dataset files]([links.html](https://accelerator.iiasa.ac.at/))
+**Public Accelerator folder:**  [View ACCREU energy demand datasets](links_DT1.html)
 
 ## Summary
 
